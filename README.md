@@ -9,7 +9,7 @@
 
 <!-- Devicons Tech Stack Grid -->
 <a href="https://github.com/21subrat">
-  <img src="https://skillicons.dev/icons?i=react,js,tailwind,vite,html,css,nodejs,express,mongodb,git,github,vscode,postman,vercel&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,vite,html,css,nodejs,express,mongodb,git,github,vscode,postman" alt="My Skills" />
 </a>
 
 <br/><br/>
