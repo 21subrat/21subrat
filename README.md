@@ -95,6 +95,10 @@ Developer_Profile:
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/21subrat/21subrat/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
 
 ### 📊 GitHub Analytics
 
