@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Subrat Panda
+#   Subrat Panda
 ### **Full Stack Web Developer**
 
 *Crafting modern, high-performance web applications & scalable e-commerce platforms.*
@@ -18,16 +18,16 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🔭 **Current Focus**: Building full-stack web applications with **React**, **Tailwind CSS**, and **Node.js**.
-- 🌱 **Exploring**: Advanced System Architecture, Performance Tuning & Microservices.
-- 🎯 **Goals**: Creating seamless user interfaces and clean, maintainable backend services.
-- 📫 **Contact**: [subratpanda018@gmail.com](mailto:subratpanda018@gmail.com)
+-  **Current Focus**: Building full-stack web applications with **React**, **Tailwind CSS**, and **Node.js**.
+-  **Exploring**: Advanced System Architecture, Performance Tuning & Microservices.
+-  **Goals**: Creating seamless user interfaces and clean, maintainable backend services.
+-  **Contact**: [subratpanda018@gmail.com](mailto:subratpanda018@gmail.com)
 
 ---
 
-### 🐍 Contribution Activity
+###  Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/21subrat/21subrat/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Activity Streak
+###  GitHub Activity Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=21subrat&theme=tokyonight&hide_border=true" width="100%" alt="Subrat's GitHub Streak" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
