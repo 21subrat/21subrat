@@ -3,7 +3,7 @@
 #   Subrat Panda
 ### **Full Stack Web Developer**
 
-*Crafting modern, high-performance web applications & scalable e-commerce platforms.*
+*Crafting modern, high-performance web applications & scalable platforms.*
 
 <br/>
 
