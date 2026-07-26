@@ -54,5 +54,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ Designed for <b>Subrat Panda</b></sub>
+  <sub>⚡ Designed by <b>Subrat Panda</b></sub>
 </div>
