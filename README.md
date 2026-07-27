@@ -24,14 +24,6 @@
 -  **Exploring**: Advanced System Architecture, Performance Tuning & Microservices.
 -  **Goals**: Creating seamless user interfaces and clean, maintainable backend services.
 -  **Contact**: [subratpanda018@gmail.com](mailto:subratpanda018@gmail.com)
-  
----
-
-###  GitHub Activity Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21subrat&theme=tokyonight&hide_border=true" width="100%" alt="Subrat's GitHub Streak" />
-</div>
 
 ---
 
@@ -42,6 +34,14 @@
 | **🛍️ E-Commerce Platform** | Full-stack e-commerce web app with product showcase & shopping cart. | React, Tailwind, Vite, Node.js | [View Repo](https://github.com/21subrat/E-Commerce) |
 | **🎮 Simon Says Game** | Interactive web game with custom sequence logic & interactive UI. | JavaScript, HTML, CSS | [View Repo](https://github.com/21subrat/Simon-Says-Game-computer-version) |
 | **✈️ WanderLust** | Full-stack web application for destination discovery & booking. | JavaScript, Node.js, Express | [View Repo](https://github.com/21subrat/WanderLust) |
+  
+---
+
+###  GitHub Activity Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21subrat&theme=tokyonight&hide_border=true" width="100%" alt="Subrat's GitHub Streak" />
+</div>
 
 ---
 
