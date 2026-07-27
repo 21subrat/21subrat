@@ -24,15 +24,7 @@
 -  **Exploring**: Advanced System Architecture, Performance Tuning & Microservices.
 -  **Goals**: Creating seamless user interfaces and clean, maintainable backend services.
 -  **Contact**: [subratpanda018@gmail.com](mailto:subratpanda018@gmail.com)
-
----
-
-###  Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/21subrat/21subrat/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
+  
 ---
 
 ###  GitHub Activity Streak
