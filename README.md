@@ -14,6 +14,11 @@
 
 <br/><br/>
 
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=21subrat&color=7f56d9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" />
+
+<br/><br/>
+
 </div>
 
 ---
@@ -37,6 +42,18 @@
   
 ---
 
+### 🐍 GitHub Contribution Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/21subrat/21subrat/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/21subrat/21subrat/output/github-contribution-grid-snake.svg">
+    <img alt="Subrat's GitHub Contribution Snake" src="https://raw.githubusercontent.com/21subrat/21subrat/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ###  GitHub Activity Streak
 
 <div align="center">
@@ -48,3 +65,4 @@
 <div align="center">
   <sub>⚡ Designed by <b>Subrat Panda</b></sub>
 </div>
+
