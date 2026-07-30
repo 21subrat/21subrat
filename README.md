@@ -57,7 +57,7 @@
 ###  GitHub Activity Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21subrat&theme=tokyonight&hide_border=true" width="100%" alt="Subrat's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=21subrat&theme=tokyonight&hide_border=true" width="100%" alt="Subrat's GitHub Streak" />
 </div>
 
 ---
