@@ -63,6 +63,6 @@
 ---
 
 <div align="center">
-  <sub>⚡ Designed by <b>Subrat Panda</b></sub>
+  <sub><b>Subrat Panda</b></sub>
 </div>
 
